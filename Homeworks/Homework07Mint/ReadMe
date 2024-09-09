@@ -1,0 +1,97 @@
+Testing For
+Size: 1000000
+Range: 1000
+Cycles: 100000
+
+Time to insert numbers into AVL Tree: 0.362305 seconds
+Average IPL of AVL before cycles: 8.176
+Average IPL of Red Black before cycles: 18.5585
+Time to insert numbers into Red Black Tree: 0.592847 seconds
+Time to complete insertion and deletion cycles for AVL Tree: 0.076665 seconds
+Time to complete insertion and deletion cycles Red Black Tree: 0.102895 seconds
+Average IPL for AVL post cycle: 8.176
+Average IPL for Red Black post cycle: 18.4781
+
+Testing For
+Size: 1000000
+Range: 1000000
+Cycles: 100000
+
+Time to insert numbers into AVL Tree: 1.40089 seconds
+Average IPL of AVL before cycles: 17.6213
+Average IPL of Red Black before cycles: 18.3792
+Time to insert numbers into Red Black Tree: 0.958426 seconds
+Time to complete insertion and deletion cycles for AVL Tree: 0.358729 seconds
+Time to complete insertion and deletion cycles Red Black Tree: 0.248009 seconds
+Average IPL for AVL post cycle: 17.5745
+Average IPL for Red Black post cycle: 18.3852
+
+Testing For
+Size: 1000000
+Range: 10000000
+Cycles: 100000
+
+Time to insert numbers into AVL Tree: 1.58106 seconds
+Average IPL of AVL before cycles: 18.2425
+Average IPL of Red Black before cycles: 18.3601
+Time to insert numbers into Red Black Tree: 1.0428 seconds
+Time to complete insertion and deletion cycles for AVL Tree: 1.13112 seconds
+Time to complete insertion and deletion cycles Red Black Tree: 0.988014 seconds
+Average IPL for AVL post cycle: 18.2349
+Average IPL for Red Black post cycle: 18.3659
+
+Testing For
+Size: 10000000
+Range: 1000000
+Cycles: 1000000
+
+Time to insert numbers into AVL Tree: 16.3646 seconds
+Average IPL of AVL before cycles: 18.3467
+Average IPL of Red Black before cycles: 21.8599
+Time to insert numbers into Red Black Tree: 14.4231 seconds
+Time to complete insertion and deletion cycles for AVL Tree: 3.28014 seconds
+Time to complete insertion and deletion cycles Red Black Tree: 3.15317 seconds
+Average IPL for AVL post cycle: 18.3453
+Average IPL for Red Black post cycle: 21.8269
+
+Testing For
+Size: 10000000
+Range: 10000000
+Cycles: 1000000
+
+Time to insert numbers into AVL Tree: 23.6467 seconds
+Average IPL of AVL before cycles: 21.0168
+Average IPL of Red Black before cycles: 21.7944
+Time to insert numbers into Red Black Tree: 15.8004 seconds
+Time to complete insertion and deletion cycles for AVL Tree: 5.79298 seconds
+Time to complete insertion and deletion cycles Red Black Tree: 4.02785 seconds
+Average IPL for AVL post cycle: 20.9701
+Average IPL for Red Black post cycle: 21.8004
+
+Testing For
+Size: 10000000
+Range: 15000000
+Cycles: 1000000
+
+Time to insert numbers into AVL Tree: 25.242 seconds
+Average IPL of AVL before cycles: 21.2371
+Average IPL of Red Black before cycles: 21.7292
+Time to insert numbers into Red Black Tree: 16.4172 seconds
+Time to complete insertion and deletion cycles for AVL Tree: 6.85549 seconds
+Time to complete insertion and deletion cycles Red Black Tree: 4.75839 seconds
+Average IPL for AVL post cycle: 21.2003
+Average IPL for Red Black post cycle: 21.7352
+
+Testing For
+Size: 10000000
+Range: 15000000
+Cycles: 10000000
+
+Time to insert numbers into AVL Tree: 25.5044 seconds
+Average IPL of AVL before cycles: 21.2282
+Average IPL of Red Black before cycles: 21.7617
+Time to insert numbers into Red Black Tree: 16.5307 seconds
+Time to complete insertion and deletion cycles for AVL Tree: 70.5992 seconds
+Time to complete insertion and deletion cycles Red Black Tree: 50.0367 seconds
+Average IPL for AVL post cycle: 21.0232
+Average IPL for Red Black post cycle: 21.785

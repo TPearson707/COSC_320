@@ -1,0 +1,69 @@
+Testing with max vertices: 10
+Testing with edges: 10
+Time to MST with Kruskal: 143 seconds
+Time to MST with Prim: 729 seconds
+
+Testing with max vertices: 10
+Testing with edges: 20
+Time to MST with Kruskal: 351 seconds
+Time to MST with Prim: 1337 seconds
+
+Testing with max vertices: 10
+Testing with edges: 30
+Time to MST with Kruskal: 425 seconds
+Time to MST with Prim: 1338 seconds
+
+Testing with max vertices: 10
+Testing with edges: 40
+Time to MST with Kruskal: 364 seconds
+Time to MST with Prim: 1334 seconds
+
+Testing with max vertices: 10
+Testing with edges: 50
+Time to MST with Kruskal: 449 seconds
+Time to MST with Prim: 1317 seconds
+
+Testing with max vertices: 10
+Testing with edges: 60
+Time to MST with Kruskal: 219 seconds
+Time to MST with Prim: 1483 seconds
+
+Testing with max vertices: 10
+Testing with edges: 70
+Time to MST with Kruskal: 294 seconds
+Time to MST with Prim: 1263 seconds
+
+Testing with max vertices: 10
+Testing with edges: 10
+Time to MST with Kruskal: 163 seconds
+Time to MST with Prim: 810 seconds
+
+Testing with max vertices: 20
+Testing with edges: 10
+Time to MST with Kruskal: 607 seconds
+Time to MST with Prim: 5755 seconds
+
+Testing with max vertices: 30
+Testing with edges: 10
+Time to MST with Kruskal: 1746 seconds
+Time to MST with Prim: 37238 seconds
+
+Testing with max vertices: 40
+Testing with edges: 10
+Time to MST with Kruskal: 4335 seconds
+Time to MST with Prim: 76032 seconds
+
+Testing with max vertices: 50
+Testing with edges: 10
+Time to MST with Kruskal: 9407 seconds
+Time to MST with Prim: 187556 seconds
+
+Testing with max vertices: 60
+Testing with edges: 10
+Time to MST with Kruskal: 12342 seconds
+Time to MST with Prim: 314183 seconds
+
+Testing with max vertices: 70
+Testing with edges: 10
+Time to MST with Kruskal: 17224 seconds
+Time to MST with Prim: 497667 seconds

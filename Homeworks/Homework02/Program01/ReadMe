@@ -1,0 +1,175 @@
+Enter the size for the arrays: 10000
+
+Testing Best Cases for each sort
+
+Trial 1 for best case analysis
+
+Time to sort using bubble: 137874 microseconds
+Time to sort using bubble: 0.137874 seconds
+
+Time to sort using insertion: 51 microseconds
+Time to sort insertion: 5.1e-05 seconds
+
+Time to sort using selection: 125326 microseconds
+Time to sort selection: 0.125326 seconds
+
+Time to sort using bubble2: 123429 microseconds
+Time to sort bubble2: 0.123429 seconds
+
+Trial 2 for best case analysis
+
+Time to sort using bubble: 113258 microseconds
+Time to sort using bubble: 0.113258 seconds
+
+Time to sort using insertion: 51 microseconds
+Time to sort insertion: 5.1e-05 seconds
+
+Time to sort using selection: 126388 microseconds
+Time to sort selection: 0.126388 seconds
+
+Time to sort using bubble2: 123591 microseconds
+Time to sort bubble2: 0.123591 seconds
+
+Trial 3 for best case analysis
+
+Time to sort using bubble: 113876 microseconds
+Time to sort using bubble: 0.113876 seconds
+
+Time to sort using insertion: 45 microseconds
+Time to sort insertion: 4.5e-05 seconds
+
+Time to sort using selection: 136955 microseconds
+Time to sort selection: 0.136955 seconds
+
+Time to sort using bubble2: 125642 microseconds
+Time to sort bubble2: 0.125642 seconds
+
+Trial 4 for best case analysis
+
+Time to sort using bubble: 115510 microseconds
+Time to sort using bubble: 0.11551 seconds
+
+Time to sort using insertion: 50 microseconds
+Time to sort insertion: 5e-05 seconds
+
+Time to sort using selection: 126844 microseconds
+Time to sort selection: 0.126844 seconds
+
+Time to sort using bubble2: 124677 microseconds
+Time to sort bubble2: 0.124677 seconds
+
+Testing Worst Cases for each sort
+
+Trial 1 for worst case analysis
+
+Time to sort using bubble: 240670 microseconds
+Time to sort using bubble: 0.24067 seconds
+
+Time to sort using insertion: 153199 microseconds
+Time to sort insertion: 0.153199 seconds
+
+Time to sort using selection: 118153 microseconds
+Time to sort selection: 0.118153 seconds
+
+Time to sort using bubble2: 674651 microseconds
+Time to sort bubble2: 0.674651 seconds
+
+Trial 2 for worst case analysis
+
+Time to sort using bubble: 238819 microseconds
+Time to sort using bubble: 0.238819 seconds
+
+Time to sort using insertion: 151459 microseconds
+Time to sort insertion: 0.151459 seconds
+
+Time to sort using selection: 116695 microseconds
+Time to sort selection: 0.116695 seconds
+
+Time to sort using bubble2: 672877 microseconds
+Time to sort bubble2: 0.672877 seconds
+
+Trial 3 for worst case analysis
+
+Time to sort using bubble: 239369 microseconds
+Time to sort using bubble: 0.239369 seconds
+
+Time to sort using insertion: 152530 microseconds
+Time to sort insertion: 0.15253 seconds
+
+Time to sort using selection: 117450 microseconds
+Time to sort selection: 0.11745 seconds
+
+Time to sort using bubble2: 673711 microseconds
+Time to sort bubble2: 0.673711 seconds
+
+Trial 4 for worst case analysis
+
+Time to sort using bubble: 239301 microseconds
+Time to sort using bubble: 0.239301 seconds
+
+Time to sort using insertion: 152145 microseconds
+Time to sort insertion: 0.152145 seconds
+
+Time to sort using selection: 116516 microseconds
+Time to sort selection: 0.116516 seconds
+
+Time to sort using bubble2: 672089 microseconds
+Time to sort bubble2: 0.672089 seconds
+
+Testing Average Cases for each sort
+
+Trial 1 for average case analysis
+
+Time to sort using bubble: 263865 microseconds
+Time to sort using bubble: 0.263865 seconds
+
+Time to sort using insertion: 76141 microseconds
+Time to sort insertion: 0.076141 seconds
+
+Time to sort using selection: 125770 microseconds
+Time to sort selection: 0.12577 seconds
+
+Time to sort using bubble2: 509736 microseconds
+Time to sort bubble2: 0.509736 seconds
+
+Trial 2 for average case analysis
+
+Time to sort using bubble: 263418 microseconds
+Time to sort using bubble: 0.263418 seconds
+
+Time to sort using insertion: 75098 microseconds
+Time to sort insertion: 0.075098 seconds
+
+Time to sort using selection: 125461 microseconds
+Time to sort selection: 0.125461 seconds
+
+Time to sort using bubble2: 503294 microseconds
+Time to sort bubble2: 0.503294 seconds
+
+Trial 3 for average case analysis
+
+Time to sort using bubble: 264171 microseconds
+Time to sort using bubble: 0.264171 seconds
+
+Time to sort using insertion: 75329 microseconds
+Time to sort insertion: 0.075329 seconds
+
+Time to sort using selection: 125851 microseconds
+Time to sort selection: 0.125851 seconds
+
+Time to sort using bubble2: 511366 microseconds
+Time to sort bubble2: 0.511366 seconds
+
+Trial 4 for average case analysis
+
+Time to sort using bubble: 262343 microseconds
+Time to sort using bubble: 0.262343 seconds
+
+Time to sort using insertion: 76016 microseconds
+Time to sort insertion: 0.076016 seconds
+
+Time to sort using selection: 125067 microseconds
+Time to sort selection: 0.125067 seconds
+
+Time to sort using bubble2: 505425 microseconds
+Time to sort bubble2: 0.505425 seconds

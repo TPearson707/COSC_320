@@ -1,0 +1,12 @@
+Created by Thomas Pearson 03/09/2024
+
+Description: Testing sort times acros various array sizes of Tree Sort. All values tested are in range 1 - 1000000.
+
+Time at Size 5000000: 6.03037 seconds
+Time at Size 10000000: 15.2429 seconds
+Time at Size 15000000: 29.6252 seconds
+Time at Size 20000000: 47.1708 seconds
+Time at Size 25000000: 66.856 seconds
+Time at Size 30000000: 93.1296 seconds
+Time at size 35000000: 139.218 seconds
+Time at size 40000000: 157.007 seconds

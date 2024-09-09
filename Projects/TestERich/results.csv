@@ -1,0 +1,9 @@
+sort/size,merge,quick,comb,shell,heap,alglib,radix10nmax,radix100rmax,radix1000rmax,radix10000rmax,radix10n1000,radix100n1000,radix1000n1000,radix10000n1000,countrmax,countn1000,bucket
+1000,0.000166,
+5000,0.000825,
+10000,0.001888,
+25000,0.004068,
+50000,0.008811,
+100000,0.019749,
+500000,0.099257,
+1000000,0.207835,
